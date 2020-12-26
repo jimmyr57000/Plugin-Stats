@@ -1,7 +1,7 @@
 # Plugin Mineweb | Stats
 
 ## Description
-Ce plugin vous permet d'afficher des miniatures aux news
+Le plugin Stats ajoute une page de statistiques sur votre site, permettant à vos joueurs de voir les statistiques globales du site. (VotreSite/stats)
 
 ## Installation | FTP
 1. Cliquez sur "Clone or download" sur la page "https://github.com/MineWeb/Plugin-Stats".
