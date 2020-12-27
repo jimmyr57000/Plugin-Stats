@@ -3,7 +3,7 @@
   "admin_menus": {
     "GLOBAL__ADMIN_PLUGINS": {
       "Stats": {
-        "icon": "bar-chart-o",
+        "icon": "address-card",
         "menu": {
           "Staff": {
             "icon": "users",
